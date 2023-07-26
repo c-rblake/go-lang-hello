@@ -22,3 +22,9 @@ func main() {
 	HelloWorld()
 
 }
+
+// GIT create a repository from the command line. needs the CLI
+// After you've created the repository on GitHub, you can push your local Git repository to GitHub using the git push command. Here's how
+//git remote add origin https://github.com/c-rblake/go-lang-hello
+//git branch -M main
+// git push -u origin main
